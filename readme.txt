@@ -1,2 +1,2 @@
 this is a test file.
-Git is free software.
+Git is free software distribute under GPL.
